@@ -8,5 +8,6 @@ namespace MyPages.Application.Features.Events
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
+        //add comment and checkin from john machine
     }
 }
